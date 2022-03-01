@@ -1,1 +1,1 @@
-# huh-slackbot
+# huh-bot
